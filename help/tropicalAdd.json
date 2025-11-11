@@ -1,0 +1,191 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tropicalAdd",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"amp" : [ 1.0 ],
+					"dist_spettr" : [ 1.002 ],
+					"fr_fond" : [ 20.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 8 ],
+					"phase" : [ 0.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"amp" : [ 0.200000002980232 ],
+					"dist_spettr" : [ 0.970000028610229 ],
+					"fr_fond" : [ 98.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 4 ],
+					"phase" : [ 0.300000011920929 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"amp" : [ 0.990000009536743 ],
+					"dist_spettr" : [ 0.970000028610229 ],
+					"fr_fond" : [ 20.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 8 ],
+					"phase" : [ 0.300000011920929 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"amp" : [ 1.0 ],
+					"dist_spettr" : [ 0.992 ],
+					"fr_fond" : [ 33.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 10 ],
+					"phase" : [ 0.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ 0.99 ],
+					"fr_fond" : [ 50.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 10 ],
+					"phase" : [ 0.09 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"amp" : [ -0.980000019073486 ],
+					"dist_spettr" : [ 0.980000019073486 ],
+					"fr_fond" : [ 100.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 3 ],
+					"phase" : [ 0.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"amp" : [ 0.200000002980232 ],
+					"dist_spettr" : [ 0.980000019073486 ],
+					"fr_fond" : [ 100.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 3 ],
+					"phase" : [ 0.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ 0.986999988555908 ],
+					"fr_fond" : [ 50.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 4 ],
+					"phase" : [ 1.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ 1.001999974250793 ],
+					"fr_fond" : [ 50.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 20 ],
+					"phase" : [ 0.319000005722046 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ -8.0 ],
+					"fr_fond" : [ 800.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 30 ],
+					"phase" : [ 0.4 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ 0.999 ],
+					"fr_fond" : [ 48.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 2 ],
+					"phase" : [ 1.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ -0.33 ],
+					"fr_fond" : [ 80.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 10 ],
+					"phase" : [ 0.4 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"data" : 				{
+					"amp" : [ -1.0 ],
+					"dist_spettr" : [ 0.999 ],
+					"fr_fond" : [ 48.0 ],
+					"live.gain~" : [ -5.066100290095321 ],
+					"num_osc" : [ 2 ],
+					"phase" : [ 1.0 ],
+					"mc::tropicalAddMC[1]" : [ 4 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

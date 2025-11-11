@@ -1,0 +1,156 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tropicalAddMC[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"ampmc" : [ 0.300000011920929 ],
+					"float_sig" : [ 1.205000042915344 ],
+					"float_sig[1]" : [ 0.019999999552965 ],
+					"float_sig[2]" : [ 1.0 ],
+					"float_sig[3]" : [ 0.300000011920929 ],
+					"freq" : [ 100.0 ],
+					"mc.live.gain~[1]" : [ -27.999999999999993 ],
+					"mode_amp" : [ 4.0 ],
+					"mode_dist" : [ 1.0 ],
+					"mode_freq" : [ 4.0 ],
+					"mode_phase" : [ 2.0 ],
+					"phasemc" : [ 1.0 ],
+					"specdistmc" : [ 1.0 ],
+					"num_osc" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"ampmc" : [ 0.300000011920929 ],
+					"float_sig" : [ 0.1 ],
+					"float_sig[1]" : [ 0.019999999552965 ],
+					"float_sig[2]" : [ 1.0 ],
+					"float_sig[3]" : [ 0.300000011920929 ],
+					"freq" : [ 100.0 ],
+					"mc.live.gain~[1]" : [ -6.849916487711781 ],
+					"mode_amp" : [ 4.0 ],
+					"mode_dist" : [ 1.0 ],
+					"mode_freq" : [ 1.0 ],
+					"mode_phase" : [ 2.0 ],
+					"phasemc" : [ 1.0 ],
+					"specdistmc" : [ 1.0 ],
+					"num_osc" : [ 5 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"ampmc" : [ 0.300000011920929 ],
+					"float_sig" : [ 1.205000042915344 ],
+					"float_sig[1]" : [ 0.019999999552965 ],
+					"float_sig[2]" : [ 1.0 ],
+					"float_sig[3]" : [ 0.300000011920929 ],
+					"freq" : [ 100.0 ],
+					"mc.live.gain~[1]" : [ -6.849916487711781 ],
+					"mode_amp" : [ 4.0 ],
+					"mode_dist" : [ 4.0 ],
+					"mode_freq" : [ 4.0 ],
+					"mode_phase" : [ 2.0 ],
+					"phasemc" : [ 1.0 ],
+					"specdistmc" : [ 1.02 ],
+					"num_osc" : [ 2 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"ampmc" : [ -1.0 ],
+					"float_sig" : [ 0.98 ],
+					"float_sig[1]" : [ 0.019999999552965 ],
+					"float_sig[2]" : [ 0.4 ],
+					"float_sig[3]" : [ 0.3 ],
+					"freq" : [ 50.0 ],
+					"mc.live.gain~[1]" : [ -6.849916487711781 ],
+					"mode_amp" : [ 1.0 ],
+					"mode_dist" : [ 4.0 ],
+					"mode_freq" : [ 1.0 ],
+					"mode_phase" : [ 1.0 ],
+					"phasemc" : [ 1.0 ],
+					"specdistmc" : [ 1.02 ],
+					"num_osc" : [ 6 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"ampmc" : [ -1.0 ],
+					"float_sig" : [ 0.2 ],
+					"float_sig[1]" : [ 0.019999999552965 ],
+					"float_sig[2]" : [ 0.4 ],
+					"float_sig[3]" : [ 0.3 ],
+					"freq" : [ 1000.0 ],
+					"mc.live.gain~[1]" : [ -6.849916487711781 ],
+					"mode_amp" : [ 0.0 ],
+					"mode_dist" : [ 2.0 ],
+					"mode_freq" : [ 2.0 ],
+					"mode_phase" : [ 1.0 ],
+					"phasemc" : [ 0.2 ],
+					"specdistmc" : [ 1.02 ],
+					"num_osc" : [ 3 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"ampmc" : [ -1.0 ],
+					"float_sig" : [ 0.2 ],
+					"float_sig[1]" : [ 0.92 ],
+					"float_sig[2]" : [ 0.432 ],
+					"float_sig[3]" : [ 0.3 ],
+					"freq" : [ 20.0 ],
+					"mc.live.gain~[1]" : [ -6.849916487711781 ],
+					"mode_amp" : [ 3.0 ],
+					"mode_dist" : [ 2.0 ],
+					"mode_freq" : [ 2.0 ],
+					"mode_phase" : [ 3.0 ],
+					"phasemc" : [ 0.2 ],
+					"specdistmc" : [ 0.98 ],
+					"num_osc" : [ 10 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"ampmc" : [ 0.2 ],
+					"float_sig" : [ 10.0 ],
+					"float_sig[1]" : [ 0.02 ],
+					"float_sig[2]" : [ 0.2 ],
+					"float_sig[3]" : [ 0.3 ],
+					"freq" : [ 20.0 ],
+					"mc.live.gain~[1]" : [ -6.849916487711781 ],
+					"mode_amp" : [ 2.0 ],
+					"mode_dist" : [ 0.0 ],
+					"mode_freq" : [ 2.0 ],
+					"mode_phase" : [ 4.0 ],
+					"phasemc" : [ 1.0 ],
+					"specdistmc" : [ 0.98 ],
+					"num_osc" : [ 8 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
